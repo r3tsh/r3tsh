@@ -4,7 +4,7 @@
 
 <img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNkYnZ6YnAzbHltcHRpejZmZzhvcHVhZjJrYWYzNDBsMmxuM3ZrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xs6K4mZi1n0YrBUdd/giphy.gif' width='200"'>
 
-#### I am a security researcher focus on
+#### I am a security researcher focus on anything that i'm curious about :S
 
 > r3tsh (~~ret shell or ret to shell~~)
 
