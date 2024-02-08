@@ -1,4 +1,4 @@
-## 👋 Hi, I'm r3tsh
+## 👋 Hi, I'm sniperax
 
 ------------
 
@@ -6,7 +6,7 @@
 
 #### I am a security researcher focus on anything that i'm curious about :S
 
-> r3tsh (~~ret shell or ret to shell~~)
+> sniperax (~~sniper + ax register :p~~)
 
 </div>
 
@@ -16,11 +16,11 @@ typedef struct {
 } contact;
 
 contact my = {
-  .twitter = "@r3tsh",
+  .twitter = "@sniperax",
 };
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r3tsh&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="r3tsh" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3tsh&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sniperax&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="sniperax" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniperax&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir" alt="Top langs" />
 </p>
