@@ -1,4 +1,4 @@
-## 👋 Hi, I'm sniperax
+## 👋 Hi, I'm opcod3r
 
 ------------
 
@@ -6,21 +6,21 @@
 
 #### I am a security researcher focus on anything that i'm curious about :S
 
-> sniperax (~~sniper + ax register :p~~)
+> sniperax (~~opcode + ax R coder~~)
 
 </div>
 
 ```c
 typedef struct {
-  const char __user *twitter;
+  const char __user *X;
 } contact;
 
 contact my = {
-  .twitter = "@sn1perax",
+  .x = "@opcod3r",
 };
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sniperax&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="sniperax" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniperax&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=opcod3r&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="opcod3r" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opcod3r&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir" alt="Top langs" />
 </p>
