@@ -4,19 +4,22 @@
 
 <img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNkYnZ6YnAzbHltcHRpejZmZzhvcHVhZjJrYWYzNDBsMmxuM3ZrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xs6K4mZi1n0YrBUdd/giphy.gif' width='200"'>
 
-#### i'm just curious about security :S
-
-> sniperax (~~opcode + ax R coder~~)
+> From 0 to research of nothing :) i'm just curious..
 
 </div>
 
 ```c
 typedef struct {
   const char __user *X;
+  const char __mastodon *mastodon;
+  const char __mail *mail;
+  
 } contact;
 
 contact my = {
   .x = "@opcod3r",
+  .mastodon = "@opcod3r"
+  .mail = "opcod3r@proton.me"
 };
 ```
 
