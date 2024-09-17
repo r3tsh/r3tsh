@@ -2,7 +2,7 @@
 
 ------------
 
-<img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNkYnZ6YnAzbHltcHRpejZmZzhvcHVhZjJrYWYzNDBsMmxuM3ZrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xs6K4mZi1n0YrBUdd/giphy.gif' width='200"'>
+<img align='center' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AzY3lndWdtdWNodWpteDMyNHRsNXI0NTJiYzNuc3JzcGt6Z2R1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIP8Eg8l52mZ4i7m/giphy.gif' width='200"'>
 
 > From 0 to research of nothing :) i'm just curious..
 
